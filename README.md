@@ -88,7 +88,7 @@ Describe the major functions of the data structure in your own words in 3 or 4 s
 
 Implement the data structure and its primary functionality, but make sure you're sticking to the restrictions outlined above. Depending on which structure you implement, you'll almost certainly either be using a Hash or Array.
 
-Write test code to show how your implementation works. (Similar to what you saw in the Stack exercise).
+Write specs to show how your implementation works. (Similar to what you saw in the Stack exercise).
 
 ###Release 2 : Get real
 
